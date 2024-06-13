@@ -1,5 +1,9 @@
 # ✨ Hi! I am Nimra:
-🔭 I’m currently studying Software Engineering at the University of Sargodha<br>🌱 I’m passionate about data science and machine learning.<br>🤔 I’m interested in numbers and share my journey on linkedin.<br>💬 Ask me about statistical data analysis.<br>📫 How to reach me: nimraamughal5@gmail.com
+🎯 I’m  currently studying Software Engineering at the University of Sargodha<br>
+📈 I’m a Python developer and curious to learn new things about statistical data analysis <br>
+🌱 I’m passionate about data science and machine learning.<br>
+🚀 I love numbers and share my journey on linkedin<br>
+🌍 How to reach me: nimraamughal5@gmail.com
 
 
 ## 🌐 Socials:

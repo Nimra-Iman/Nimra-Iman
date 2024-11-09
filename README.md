@@ -3,7 +3,7 @@
 📈 I’m a Python developer and curious to learn new things about statistical data analysis <br>
 🌱 I’m passionate about data science and machine learning.<br>
 🚀 I love numbers and share my journey on linkedin<br>
-🌍 How to reach me: nimraamughal5@gmail.com
+🌍 How to reach me: imannimra92@gmail.com
 
 
 ## 🌐 Socials:

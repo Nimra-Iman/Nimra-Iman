@@ -1,5 +1,5 @@
 # ✨ Hi! I am Nimra:
-🎯 I’m  currently studying Software Engineering at the University of Sargodha<br>
+🎯 I have recently completed Software Engineering from the University of Sargodha<br>
 📈 I’m a Python developer and curious to learn new things about statistical data analysis <br>
 🌱 I’m passionate about data science and machine learning.<br>
 🚀 I love numbers and share my journey on linkedin<br>
